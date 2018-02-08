@@ -1,0 +1,23 @@
+commit 9dacd2c28cc862f186aeb4c2313d02b43c6a2430
+Author: Ferney Merchan <ferneymtello@hotmail.com>
+Date:   Tue Feb 6 22:55:59 2018 -0500
+
+    Agregando header e index
+
+commit 85d934cbf924f1eef399e72025188a1b6c271472
+Author: Ferney Merchan <ferneymtello@hotmail.com>
+Date:   Tue Feb 6 22:54:37 2018 -0500
+
+    Agregando Guitarra Clasica
+
+commit ae6d1dd51804ecf948e830b686e293dde8ef7ba7
+Author: Ferney Merchan <ferneymtello@hotmail.com>
+Date:   Tue Feb 6 22:53:20 2018 -0500
+
+    Agregando Guitarra Acustica
+
+commit a3173ce97b267375316acecb71691aaaeef0aaa1
+Author: Ferney Merchan <ferneymtello@hotmail.com>
+Date:   Tue Feb 6 22:50:45 2018 -0500
+
+    sumando nuevo hero e index
