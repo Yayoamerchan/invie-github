@@ -1,3 +1,5 @@
-## Crear template para issues 
+## Como se evidencia el problema? 
+por favor describe en que SO. Navegador y que es lo que ocurre
 
-La página no carga en Chrome.
+## En que version de invie ocurre?
+Detalla la version y la fecha
